@@ -1,0 +1,11 @@
+{
+  "name": "temp-converter",
+  "version": "1.0.0",
+  "description": "Temperature converter app with CI/CD",
+  "main": "converter.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
